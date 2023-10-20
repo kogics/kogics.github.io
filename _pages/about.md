@@ -20,3 +20,15 @@ social: false  # includes social icons at the bottom of the page
 Kogics Foundation vision and mission here.
 
 The site is under development...
+
+At the Kogics Foundation, we work with young minds and aim to give them tools that make learning fun and effective, ignite them with the fire of curiosity, encourage them to dream, and help them to pursue their dreams, and guide them to an awareness of joy.
+
+At the Kogics Foundation, we work with young minds and aim to:
+* Give them tools that make learning fun and effective.
+* Ignite them with the fire of curiosity.
+* Encourage them to dream, and help them to pursue their dreams.
+* Guide them to an awareness of joy.
+
+At the Kogics Foundation, we work with young minds and aim to give them tools that make learning fun and effective, ignite them with the fire of curiosity, encourage them to dream, and help them to pursue their dreams, and guide them to an awareness of joy.
+
+At the Kogics Foundation, we work with young minds and aim to give them tools that make learning fun and effective, ignite them with the fire of curiosity, encourage them to dream, and help them to pursue their dreams, and guide them to an awareness of joy.
