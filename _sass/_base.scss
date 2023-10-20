@@ -216,7 +216,7 @@ blockquote {
 .navbar {
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
-  background-color: var(--global-bg-color);
+  background-color: var(--global-footer-bg-color);
   opacity: 0.95;
 }
 
@@ -258,7 +258,9 @@ blockquote {
   }
 
   .navbar-nav .nav-item .nav-link {
-    color: var(--global-text-color);
+    color: var(--global-footer-text-color);
+    font-size: 1.2rem;
+    font-weight: bolder;
 
     &:hover {
       color: var(--global-hover-color);
@@ -267,7 +269,7 @@ blockquote {
 
   .navbar-nav .nav-item.active>.nav-link {
     background-color: inherit;
-    font-weight: bolder;
+    font-weight: bold;
     color: var(--global-theme-color);
 
     &:hover {

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: kojo chinar
+description: The Kojo Project at Chinar Club, Baramulla
+img: assets/img/12.jpg
+importance:
+category: kojo
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: Weekend Exchange
+description: Weekend sessions with mentors
 img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
-category: work
+# redirect: https://unsplash.com
+importance:
+category: mconnect
 ---
 
 Every project has a beautiful feature showcase page.
