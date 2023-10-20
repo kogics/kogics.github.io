@@ -6,9 +6,9 @@ nav_order: 1
 dropdown: true
 children:
     - title: about
-      permalink: /kojo/
+      permalink: /kojo
     - title: download
-      permalink: /kojo-download/
+      permalink: /kojo-download
     - title: ebooks
-      permalink: /kojo-ebooks/
+      permalink: /kojo-ebooks
 ---
