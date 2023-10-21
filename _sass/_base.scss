@@ -4,6 +4,10 @@
 
 // Typography
 
+body {
+  font-weight: var(--global-font-weight);
+}
+
 p,
 h1,
 h2,
@@ -37,6 +41,7 @@ table {
 a,
 table.table a {
   color: var(--global-theme-color);
+  font-weight: var(--global-font-weight);
 
   &:hover {
     color: var(--global-theme-color);
@@ -229,7 +234,7 @@ blockquote {
   }
 
   a:hover {
-    color: var(--global-hover-color);
+    color: var(--global-theme-color);
   }
 
   .dropdown-divider {
@@ -270,7 +275,6 @@ blockquote {
   .navbar-nav .nav-item.active>.nav-link {
     background-color: inherit;
     font-weight: bold;
-    color: var(--global-theme-color);
 
     &:hover {
       color: var(--global-hover-color);
@@ -421,7 +425,7 @@ footer.fixed-bottom {
     color: var(--global-footer-link-color);
 
     &:hover {
-      color: var(--global-theme-color);
+      color: var(--global-hover-color);
       text-decoration: none;
     }
   }
