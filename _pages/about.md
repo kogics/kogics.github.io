@@ -37,7 +37,7 @@ At this point in time, Kojo is a family of products:
   - [kojo-music](https://github.com/litan/kojo-music)
 
 
-With the Kojo product is a foundation, we are doing many projects with partners with schools around the country. You can read more about these on the [Projects](/projects) page.
+With the Kojo product as a foundation, we are doing many projects in collaboration with close partners -- with schools around the country. You can read more about these on the [Projects](/projects) page.
 
 In addition to our Kojo projects, we are also doing a project called *Partners in Education (PiE)*. This project aims to... 
 You can read more about the project on the [Projects](/projects) page.
