@@ -39,7 +39,7 @@ All of this fosters in them a [mindset of experimentation](http://ikojo.in), inn
   </a>
 
   <a href="https://docs.kogics.net/modules/modules-index.html">
-    <button type="button" class="btn btn-primary" style="background-color: #2698BA;">Start Learning</button>
+    <button type="button" class="btn btn-primary theme-btn-bg">Start Learning</button>
   </a>
 </div>
 
