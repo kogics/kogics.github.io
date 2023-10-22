@@ -1,6 +1,6 @@
 ---
 layout: about
-title: home
+title: Home
 permalink: /
 subtitle:
 
@@ -32,9 +32,9 @@ At this point in time, Kojo is a family of products:
 * A [web app](http://ikojo.in)
 * The [code exchange](https://codex.kogics.net)
 * Many rich and powerful plugins for Kojo:
-  - [kojo-ai](https://github.com/litan/kojo-ai-3)
-  - [kojo-gaming](https://github.com/litan/kojo-gaming)
-  - [kojo-music](https://github.com/litan/kojo-music)
+  * [kojo-ai](https://github.com/litan/kojo-ai-3)
+  * [kojo-gaming](https://github.com/litan/kojo-gaming)
+  * [kojo-music](https://github.com/litan/kojo-music)
 
 
 With the Kojo product as a foundation, we are doing many projects in collaboration with close partners -- with schools around the country. You can read more about these on the [Projects](/projects) page.

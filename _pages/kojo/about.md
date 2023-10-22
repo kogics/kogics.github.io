@@ -1,79 +1,66 @@
 ---
 layout: page
-title: Kojo Homepage
+title: About Kojo
 permalink: /kojo
 ---
 
-This is the Kojo home-page
+Kojo is an open source learning environment that is available as a [desktop-app](/kojo-download) for Linux, Windows, and Mac, and as a [web-app](http://ikojo.in) that runs on any modern internet-browser.
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+<div class="float-right">
+  {% include figure.html path="assets/img/square-spiral2.png" title="example image" class="img-fluid rounded z-depth-1" %}
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+Inside Kojo, youngsters (from ages 8 to 80!) – play, create, and learn:
+* They play with Scala programs.
+* They create drawings, animations, games, and Arduino based intelligent circuits (with appropriate additional hardware).
+* And they learn:
+  * Logical, Critical, and Creative thinking
+  * Computer programming and Computing
+  * Problem solving
+  * Attention-fullness, focus, and concentration
+  * Game development
+  * Artificial intelligence
+  * Electronics and Robotics
+  * Math and Physics
+  * Emotional grit
+  * Collaboration
+  * And a lot more...
+* Very importantly, they also learn how to learn with understanding – given the opportunity to apply learned ideas to many different situations, and the exploration, discovery, and creation involved in this process.
 
+All of this fosters in them a [mindset of experimentation](http://ikojo.in), innovation, self-reliance, growth, mental discipline, and teamwork – with Kojo as the enabler.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+<div class="row m-5">
+  <a href="/kojo-download">
+    <button type="button" class="btn btn-primary theme-btn-bg">Download Kojo</button>
+  </a>
+
+  <a href="https://vimeo.com/469464682">
+    <button type="button" class="btn btn-primary theme-btn-bg">Watch Intro Video</button>
+  </a>
+
+  <a href="https://docs.kogics.net/modules/modules-index.html">
+    <button type="button" class="btn btn-primary" style="background-color: #2698BA;">Start Learning</button>
+  </a>
 </div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
 
+To get going with Kojo:
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+* [Download and Install](/kojo-download) it, or [Run it Online](http://ikojo.in).
+* Get going with the [Tutorials](https://docs.kogics.net/tutorials-index.html).
+* Or explore the [Kojo Docs](http://docs.kogics.net/) website.
 
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+---
+
+Let's talk for a moment about what makes Kojo so effective.  
+Todo
+
+---
+
+Kojo Features  
+Todo
+
+----
+
+IDE Features  
+Todo
+

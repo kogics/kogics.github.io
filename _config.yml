@@ -90,8 +90,8 @@ google_analytics:  # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 # -----------------------------------------------------------------------------
 
 blog_name: Kogics Blog # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: Things worth putting out there
+blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
+blog_description: Things of note
 permalink: /blog/:year/:title/
 
 # Pagination

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: kojo
+title: Kojo
 nav: true
 nav_order: 1
 dropdown: true
@@ -11,4 +11,6 @@ children:
       permalink: /kojo-download
     - title: ebooks
       permalink: /kojo-ebooks
+    - title: code exchange
+      permalink: https://codex.kogics.net/
 ---

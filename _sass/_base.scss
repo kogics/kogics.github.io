@@ -264,7 +264,7 @@ blockquote {
 
   .navbar-nav .nav-item .nav-link {
     color: var(--global-footer-text-color);
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     font-weight: bolder;
 
     &:hover {
@@ -1063,4 +1063,9 @@ nav[data-toggle="toc"] {
     margin-bottom: 0;
     padding-top: 0.5rem;
   }
+}
+
+.theme-btn-bg {
+  background-color: var(--global-theme-color);
+  border-color: var(--global-theme-color);
 }
