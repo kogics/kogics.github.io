@@ -4,6 +4,20 @@ title: About Kojo
 permalink: /kojo
 ---
 
+<div class="row ml-1 mb-4">
+  <a href="https://vimeo.com/469464682">
+    <button type="button" class="btn btn-primary btn-theme-bg">Watch Intro Video</button>
+  </a>
+
+  <a href="https://docs.kogics.net/modules/modules-index.html">
+    <button type="button" class="btn btn-primary btn-theme-bg">Start Learning</button>
+  </a>
+
+  <a href="/kojo-download">
+    <button type="button" class="btn btn-primary btn-theme-bg">Download Kojo</button>
+  </a>
+</div>
+
 Kojo is an open source learning environment that is available as a [desktop-app](/kojo-download) for Linux, Windows, and Mac, and as a [web-app](http://ikojo.in) that runs on any modern internet-browser.
 
 <div class="float-right">
@@ -28,20 +42,6 @@ Inside Kojo, youngsters (from ages 8 to 80!) – play, create, and learn:
 * Very importantly, they also learn how to learn with understanding – given the opportunity to apply learned ideas to many different situations, and the exploration, discovery, and creation involved in this process.
 
 All of this fosters in them a [mindset of experimentation](http://ikojo.in), innovation, self-reliance, growth, mental discipline, and teamwork – with Kojo as the enabler.
-
-<div class="row m-5">
-  <a href="/kojo-download">
-    <button type="button" class="btn btn-primary theme-btn-bg">Download Kojo</button>
-  </a>
-
-  <a href="https://vimeo.com/469464682">
-    <button type="button" class="btn btn-primary theme-btn-bg">Watch Intro Video</button>
-  </a>
-
-  <a href="https://docs.kogics.net/modules/modules-index.html">
-    <button type="button" class="btn btn-primary theme-btn-bg">Start Learning</button>
-  </a>
-</div>
 
 To get going with Kojo:
 
