@@ -20,11 +20,12 @@ permalink: /kojo
 
 Kojo is an [open source](https://github.com/litan/kojo) learning environment that is available as a [desktop-app](/kojo-download) for Linux, Windows, and Mac, and as a [web-app](http://ikojo.in) that runs on any modern internet-browser.
 
+Inside Kojo, youngsters (from ages 8 to 80!) – *play*, *create*, and *learn*:
+
 <div class="float-right ml-3 mb-1">
-  {% include figure.html path="assets/img/kojo-drawings.png" title="kojo drawings" class="img-fluid rounded z-depth-1" width="350" zoomable="true" %}
+  {% include figure.html path="assets/img/kojo-env.png" title="kojo environment" class="img-fluid rounded z-depth-1" width="400" zoomable="true"%}
 </div>
 
-Inside Kojo, youngsters (from ages 8 to 80!) – *play*, *create*, and *learn*:
 * They **play** with Scala programs
 * They **create** drawings, generative-art, animations, music, games, simulations, apps, and Arduino based intelligent circuits (with appropriate additional hardware)
 * And they **learn** these essential 21st century skills:
@@ -42,7 +43,7 @@ Inside Kojo, youngsters (from ages 8 to 80!) – *play*, *create*, and *learn*:
   * And a lot more...
 
 <div class="float-right ml-3 mb-1">
-  {% include figure.html path="assets/img/square-spiral2.png" title="kojo screenshot" class="img-fluid rounded z-depth-1" %}
+  {% include figure.html path="assets/img/kojo-drawings.png" title="kojo drawings" class="img-fluid rounded z-depth-1" width="350" zoomable="true" %}
 </div>
 
 * Very importantly, in addition to essential skills, they also learn how to learn with understanding – given the opportunity to apply learned ideas to many different situations, and the exploration, discovery, and creation involved in this process.
@@ -56,6 +57,26 @@ To enable all of the above, Kojo provides a combination of three compelling feat
 * A strong yet beginner-friendly programming language named Scala (which has great support for all the essential ideas in computing and coding – via structured, functional, object-oriented, and concurrent programming).
 * A powerful and easy-to-use App (with modern features like syntax-highlighting, code-completion, interactive-program-manipulation, breakpoints, data inspection, tracing, history, etc.)
 * Rich areas for programming and creation (with real-world connects) – Turtle Graphics, Picture Graphics, Animations, [Gaming](https://github.com/litan/kojo-gaming), [Music](https://github.com/litan/kojo-music), [AI](https://github.com/litan/kojo-ai-3), and [Robotics](https://github.com/litan/kojo-arduino), with good starter learning material.
+
+---
+
+Kojo has been around since late 2009. From the time of its launch, it has been downloaded and used joyfully by people from all over the world. To find out more about this journey, you can go to the [Kojo case studies page](https://docs.kogics.net/reference/kojo-case-studies.html), where you will find interviews, articles, and papers based on the use of Kojo by different people, in different settings, over this period of time. These references provide details on the origin and history of Kojo, the pedagogical ideas behind, its features, and its beneficiaries. They also highlight some of the human interest stories of this journey.
+
+<div class="float-right ml-3 mb-1">
+  {% include figure.html path="assets/img/kojo-screenshot.png" title="kojo screenshot" class="img-fluid rounded z-depth-1" width="450" zoomable="true" %}
+</div>
+
+At this point in time, Kojo is a family of products:
+
+* A [desktop app](/kojo) (the original product)
+* A [web app](http://ikojo.in)
+* The [code exchange](https://codex.kogics.net)
+* Many rich and powerful plugins for Kojo:
+  * [kojo-ai](https://github.com/litan/kojo-ai-3)
+  * [kojo-gaming](https://github.com/litan/kojo-gaming)
+  * [kojo-music](https://github.com/litan/kojo-music)
+
+---
 
 To get going with Kojo:
 
