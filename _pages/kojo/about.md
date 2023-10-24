@@ -6,15 +6,19 @@ permalink: /kojo
 
 <div class="row ml-1 mb-4">
   <a href="https://vimeo.com/469464682">
-    <button type="button" class="btn btn-primary btn-theme-bg">Watch Intro Video</button>
+    <button type="button" class="btn btn-primary btn-theme-bg">Watch Intro</button>
   </a>
 
   <a href="https://docs.kogics.net/modules/modules-index.html">
-    <button type="button" class="btn btn-primary btn-theme-bg">Start Learning</button>
+    <button type="button" class="btn btn-primary btn-theme-bg">Learn</button>
   </a>
 
   <a href="/kojo-download">
-    <button type="button" class="btn btn-primary btn-theme-bg">Download Kojo</button>
+    <button type="button" class="btn btn-primary btn-theme-bg">Download</button>
+  </a>
+
+  <a href="http://ikojo.in/sf/oR9PJ43/0">
+    <button type="button" class="btn btn-primary btn-theme-bg">Try It Out</button>
   </a>
 </div>
 
