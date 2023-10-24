@@ -19,6 +19,7 @@ kojo_version: 2.9.26
 
 {% capture winInstaller %}{{ base }}/Kojo_windows-x64_{{ version_uscore }}_with_jre.exe{% endcapture %}
 {% capture macInstaller %}{{ base }}/Kojo_macos_{{ version_uscore }}_with_jre.dmg{% endcapture %}
+{% capture zipDistribution %}{{ base }}/Kojo_{{ version_uscore }}.zip{% endcapture %}
 
 #### Quick Links
 
@@ -28,19 +29,23 @@ Click on a button below to download Kojo for your platform/OS:
 
 <div class="row ml-1 mb-4">
   <a href="{{ unixInstallerWithJre }}">
-    <button type="button" class="btn btn-primary btn-theme-bg">Linux/Unix</button>
+    <button type="button" class="btn btn-primary btn-theme-bg">Linux</button>
   </a>
 
-  <a href="https://docs.kogics.net/modules/modules-index.html">
+  <a href="{{ winInstaller }}">
     <button type="button" class="btn btn-primary btn-theme-bg">Windows</button>
   </a>
 
-  <a href="/kojo-download">
+  <a href="{{ macInstaller }}">
     <button type="button" class="btn btn-primary btn-theme-bg">Mac</button>
   </a>
 
-  <a href="/kojo-download">
-    <button type="button" class="btn btn-primary btn-theme-bg">Cross Platform</button>
+  <a href="{{ unixInstallerWithoutJre }}">
+    <button type="button" class="btn btn-primary btn-theme-bg">R-Pi</button>
+  </a>
+
+  <a href="{{ zipDistribution }}">
+    <button type="button" class="btn btn-primary btn-theme-bg">X-Platform</button>
   </a>
 </div>
 
@@ -141,8 +146,9 @@ To install Kojo on Chromebooks, you need to:
 
 <h5 id="crossplatform">Cross Platform</h5>
 
-*Instructions:*
+[Kojo Distribution (zip file)]({{ zipDistribution }}) (Version: {{page.kojo_version}}, needs Java 8 or higher)
 
+*Instructions:*
 This is a fallback distribution, to be used if you run into problems with an installer that is specific to your platform. This distribution can be used on any platform where Java 8 (or higher) is supported. To install Kojo via this distribution:
 * Make sure that Java 8 (or higher) is installed on your computer. If in doubt, get Java 8 from the [Java download site](https://www.java.com/download/).
 * Download the Kojo Distribution (zip file) and extract it to a directory of your choice.
