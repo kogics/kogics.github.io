@@ -25,8 +25,6 @@ kojo_version: 2.9.26
 
 Click on a button below to download Kojo for your platform/OS:
 
-
-
 <div class="row ml-1 mb-4">
   <a href="{{ unixInstallerWithJre }}">
     <button type="button" class="btn btn-primary btn-theme-bg">Linux</button>

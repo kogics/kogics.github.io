@@ -27,7 +27,7 @@ Kojo is an [open source](https://github.com/litan/kojo) learning environment tha
 Inside Kojo, youngsters (from ages 8 to 80!) – *play*, *create*, and *learn*:
 
 <div class="float-right ml-3 mb-1">
-  {% include figure.html path="assets/img/kojo-env.png" title="kojo environment" class="img-fluid rounded z-depth-1" width="400" zoomable="true"%}
+  {% include figure.html path="assets/img/kojo-env.png" title="kojo environment" class="img-fluid rounded z-depth-1" width="400" zoomable="true" %}
 </div>
 
 * They **play** with Scala programs

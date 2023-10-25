@@ -4,74 +4,91 @@ title: Kojo Ebooks
 permalink: /kojo-ebooks
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The following is a series of books about using Kojo to play with Computer Programming, Art, Math, and a lot more. Take a read, play along, and have fun!
+* [Kojo - An Introduction](#intro)
+* [Explorations with Kojo - Level 1](#explorations1)
+* [Adventures with Kojo](#adventures)
+* [Kojo Programming Quick-Ref](#quickref)
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+There's also a code-only (almost-no-prose) activity book to very quickly get going:
+* [Getting started with Kojo](https://docs.kogics.net/tutorials-index.html#books)
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Additional Kojo learning material is available on the [Kojo Docs](http://docs.kogics.net/) website.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+---
+
+<div class="float-right ml-5 mb-1 text-center">
+  <a href="https://github.com/litan/kojo/releases/download/2.9.05_release/KojoIntro-300114.pdf">
+    {% include figure.html path="assets/img/ebook-intro.png" title="kojo intro ebook" class="img-fluid rounded z-depth-1" %}
+  </a>
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+<h3 id="intro">Kojo - An Introduction</h3>
 
+[Download the Ebook](https://github.com/litan/kojo/releases/download/2.9.05_release/KojoIntro-300114.pdf)
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+This book introduces children to the Kojo Environment, and gives them a taste of what they can do with Kojo. 
+
+*Note - the book is fairly old (it was last updated in 2014), but it still does a good job of introducing the Kojo user interface and basic features.*
+
+For a really quick introduction to Kojo, there is also the [Kojo Intro Video](https://vimeo.com/469464682).
+
+---
+
+<div class="float-right ml-5 mb-1 text-center">
+  <a href="https://pantlalit.gumroad.com/l/kojo-lessons-level1">
+    {% include figure.html path="assets/img/ebook-explorations1x.png" title="kojo intro ebook" class="img-fluid rounded z-depth-1" %}
+  </a>
 </div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+
+<h3 id="explorations1">Explorations with Kojo - Level 1</h3>
+
+[Buy the Ebook](https://pantlalit.gumroad.com/l/kojo-lessons-level1) -- and support the Kojo project.
+
+This book is meant to get children going on their journey of coding, and the learning of essential skills via coding. It helps them learn the essentials of coding, even as they interactively explore different topics in Math and Art (via coding). Topics covered include:
+
+* Math - distances, numbers, ratio and proportion, percentages, estimation, angles, arcs, polygons, coordinate geometry, equations, random numbers, visual and numeric patterns, and more.
+* Art - all kinds of shapes and colors, brought together creatively.
+* Coding -- turtle graphics, values and variables, commands and functions, algorithms, primitives, composition, and abstraction.
+
+The book also gives children practice with learning how to learn new things -- using exploration, discovery, and feedback.
+
+---
+
+<div class="float-right ml-5 mb-1 text-center">
+  <a href="https://github.com/litan/kojo/releases/download/2.9.05_release/KojoLevel1-280213.pdf">
+    {% include figure.html path="assets/img/ebook-level1.png" title="kojo intro ebook" class="img-fluid rounded z-depth-1" %}
+  </a>
 </div>
 
+<h3 id="adventures">Adventures with Kojo</h3>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+[Download the Ebook](https://github.com/litan/kojo/releases/download/2.9.05_release/KojoLevel1-280213.pdf)
 
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+This is the original introductory programming book for Kojo. The Explorations book above is much more recent, and covers a lot more ground, but this is still a fine getting-started book for younger children (around 10 years old). The focus of this book is:
+
+* To make children familiar with the basic ideas of Computer Programming (and to relate these ideas to Algebra and Arithmetic, where appropriate).
+* To get them to experiment with basic Geometry.
+* To enable them to exercise their creative and logical thinking skills by making nice and colorful computer sketches - using just a few building blocks, and their knowledge of Programming and Geometry.
+
+---
+
+<div class="float-right ml-5 mb-1 text-center">
+  <a href="https://github.com/litan/kojo/releases/download/2.9.05_release/KojoQuickref-301014.pdf">
+    {% include figure.html path="assets/img/ebook-quickref.png" title="kojo intro ebook" class="img-fluid rounded z-depth-1" %}
+  </a>
 </div>
-```
-{% endraw %}
+
+<h3 id="quickref">Kojo Programming Quick-Ref</h3>
+
+[Download the Ebook](https://github.com/litan/kojo/releases/download/2.9.05_release/KojoQuickref-301014.pdf)
+
+This book is meant for a couple of different audiences:
+* Children who have been using Kojo for a while, and want a concise reference to the ideas, terminology, and useful features of Kojo.
+* Adults who are familiar with programming, and want a quick way to get productive with Kojo.
+
+---
+
+{% for i in (1..15) %}
+<p>&nbsp;</p>
+{% endfor %}
