@@ -4,22 +4,32 @@ title: Kojo Ebooks
 permalink: /kojo-ebooks
 ---
 
-The following is a series of books about using Kojo to play with Computer Programming, Art, Math, and a lot more. Take a read, play along, and have fun!
+The following is a series of books about using [Kojo](/kojo) to play with Computer Programming, Art, Math, and a lot more. Take a read, play along, and have fun!
+
+<div class="float-right ml-5 mb-1 text-center">
+  <a href="https://docs.kogics.net/tutorials-index.html#books">
+    {% include figure.html path="assets/img/ebook/getting-started.png" title="getting started ebook" class="img-fluid rounded z-depth-1" width="200" %}
+  </a>
+</div>
+
 * [Kojo - An Introduction](#intro)
 * [Explorations with Kojo - Level 1](#explorations1)
 * [Adventures with Kojo](#adventures)
 * [Kojo Programming Quick-Ref](#quickref)
 
-There's also a code-only (almost-no-prose) activity book to very quickly get going:
+There's also a code-only (almost-no-prose) activity book to very quickly get going with Kojo:
 * [Getting started with Kojo](https://docs.kogics.net/tutorials-index.html#books)
 
-Additional Kojo learning material is available on the [Kojo Docs](http://docs.kogics.net/) website.
+Additional Kojo learning material is available on the [Kojo Docs](http://docs.kogics.net/) website. Here are some useful links from that site:
+* [Tutorials](https://docs.kogics.net/tutorials-index.html)
+* [Fundamentals](https://docs.kogics.net/fundamentals-index.html)
+* [References](https://docs.kogics.net/references-index.html)
 
 ---
 
 <div class="float-right ml-5 mb-1 text-center">
   <a href="https://github.com/litan/kojo/releases/download/2.9.05_release/KojoIntro-300114.pdf">
-    {% include figure.html path="assets/img/ebook-intro.png" title="kojo intro ebook" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/ebook/intro.png" title="intro ebook" class="img-fluid rounded z-depth-1" width="160" %}
   </a>
 </div>
 
@@ -37,7 +47,7 @@ For a really quick introduction to Kojo, there is also the [Kojo Intro Video](ht
 
 <div class="float-right ml-5 mb-1 text-center">
   <a href="https://pantlalit.gumroad.com/l/kojo-lessons-level1">
-    {% include figure.html path="assets/img/ebook-explorations1x.png" title="kojo intro ebook" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/ebook/explorations1.png" title="explorations ebook" class="img-fluid rounded z-depth-1" width="200" %}
   </a>
 </div>
 
@@ -57,7 +67,7 @@ The book also gives children practice with learning how to learn new things -- u
 
 <div class="float-right ml-5 mb-1 text-center">
   <a href="https://github.com/litan/kojo/releases/download/2.9.05_release/KojoLevel1-280213.pdf">
-    {% include figure.html path="assets/img/ebook-level1.png" title="kojo intro ebook" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/ebook/adventures.png" title="adventures ebook" class="img-fluid rounded z-depth-1" width="160" %}
   </a>
 </div>
 
@@ -75,7 +85,7 @@ This is the original introductory programming book for Kojo. The Explorations bo
 
 <div class="float-right ml-5 mb-1 text-center">
   <a href="https://github.com/litan/kojo/releases/download/2.9.05_release/KojoQuickref-301014.pdf">
-    {% include figure.html path="assets/img/ebook-quickref.png" title="kojo intro ebook" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/ebook/quickref.png" title="quickref ebook" class="img-fluid rounded z-depth-1" width="160" %}
   </a>
 </div>
 
