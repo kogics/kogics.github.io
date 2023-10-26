@@ -5,7 +5,7 @@ description: Weekend sessions with mentors
 img: assets/img/7.jpg
 # redirect: https://unsplash.com
 importance:
-category: mconnect
+category: pie
 ---
 
 Every project has a beautiful feature showcase page.
