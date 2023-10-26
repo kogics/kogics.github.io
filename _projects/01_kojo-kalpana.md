@@ -11,7 +11,7 @@ category: kojo
   {% include figure.html path="assets/img/project/aug-22-competition.png" title="aug-22-competition.png" class="img-fluid rounded z-depth-1" width="400" zoomable="true" caption="children busy coding in a competition" %}
 </div>
 
-The Kojo Kalpana project has been conceptualized by [REACHA](www.reacha.org) and **SmartGaon**, and aims to make the full benefits of Kojo/coding available to participating schools - aligned with NEP 2020 -- where students of classes 6th to 8th (and other classes as desired) can learn *21st century skills through coding* and *learning with understanding* via **Kojo**.
+The Kojo Kalpana project has been conceptualized by our partners [REACHA](www.reacha.org) and **SmartGaon**, and aims to make the full benefits of Kojo/coding available to participating schools - aligned with NEP 2020 -- where students of classes 6th to 8th (and other classes as desired) can learn *21st century skills through coding* and *learning with understanding* via **Kojo**.
 
 Currently, fifteen schools in four states are enrolled.
 
