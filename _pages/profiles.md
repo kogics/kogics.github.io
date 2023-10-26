@@ -46,8 +46,8 @@ Nikhil has been working with school children and college youth for over 20 years
 
 <div class="row mt-5 ">
     <div class="col text-center">
-      <a href="">
-        {% include figure.html path="assets/img/people/lalit-130.png" class="img-fluid rounded z-depth-1" width="150" %}
+      <a href="https://www.linkedin.com/in/anusha-pant/">
+        {% include figure.html path="assets/img/people/anusha.jpeg" class="img-fluid rounded z-depth-1" width="183" %}
       </a>
       <div class="caption">
         Anusha Pant
