@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Efforts to make a difference
+description: Endeavours to make a difference
 nav: true
 nav_order: 2
 display_categories: [kojo, pie]

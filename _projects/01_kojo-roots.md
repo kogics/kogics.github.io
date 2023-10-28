@@ -1,6 +1,6 @@
 ---
 layout: page
-title: kojo roots
+title: kojo-roots
 description: Kojo research projects around the Dehradun area
 img: assets/img/project/kojo-roots.png
 importance:
