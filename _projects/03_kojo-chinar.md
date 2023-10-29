@@ -11,7 +11,7 @@ category: kojo
   {% include figure.html path="assets/img/project/chinar12.png" title="chinar12.png" class="img-fluid rounded z-depth-1" width="240" zoomable="true" caption="A stall with kojo-made merchandise" %}
 </div>
 
-This project is being run by [REACHA](www.reacha.org) in partnership with the Indian Army, with the support of ONGC.
+This project is being run by [REACHA](https://www.reacha.org) in partnership with the Indian Army, with the support of ONGC.
 
 The following are the goals of the project:
 * Get youngsters to learn essential 21st century skills through coding, to make them ready for jobs of the future.
