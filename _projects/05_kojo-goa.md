@@ -8,20 +8,21 @@ category: kojo
 ---
 
 <div class="float-right ml-3 mb-1">
-  {% include figure.html path="assets/img/project/aug-22-competition.png" title="aug-22-competition.png" class="img-fluid rounded z-depth-1" width="400" zoomable="true" caption="children enjoying a Kojo coding competition" %}
+  {% include figure.html path="assets/img/project/goa-manjusha1.png" title="aug-22-competition.png" class="img-fluid rounded z-depth-1" width="240" zoomable="true" caption="a tangram boat by Manjusha Govekar" %}
 </div>
 
-Coming soon. Placeholder text below...
+Kojo is part of the coding curriculum in the state of Goa – for grade 7 (standard and elective curriculum) and grade 8 (elective curriculum).
 
-The Kojo Kalpana project has been conceptualized by our partners [REACHA](www.reacha.org) and **SmartGaon**, and aims to make the full benefits of Kojo/coding available to participating schools - aligned with NEP 2020 -- where students of classes 6th to 8th (and other classes as desired) can learn *21st century skills through coding* and *learning with understanding* via **Kojo**.
+* [Curriculum Notification Doc](https://kojoenv.files.wordpress.com/2021/09/goa_ict-letter-with-curriculum_june_2021.pdf)
+* [Grade 7 ICT Ebook](/assets/pdf/Goa-Std-7-Regular.pdf)
 
-Currently, fifteen schools in four states are enrolled.
+Children and teachers in Goa have been making wonderful creations with Kojo. Here are some examples:
+* [Creations by student Amol Naik](https://codex.kogics.net/searchq?author=Amol%20naik&school=Murgaon%20high%20school)
+* [Creations by teacher Sonaly Pawar](https://codex.kogics.net/searchq?author=Sonaly%20R%20Pawar&school=)
+* [Creations by teacher Maya Kamat](https://codex.kogics.net/searchq?author=Maya%20Anay%20Kamat&school=The%20Progress%20High%20school,%20Panaji)
 
-To get a flavor of the project, check out the *award ceremony* presentations for some of the coding competitions that have been conducted:
-
-* [August 2022 Kojo coding Competition](/assets/pdf/Aug-2022-competition.pdf)
-* [December 2022 Kojo coding Competition](/assets/pdf/Dec-2022-competition.pdf)
+---
 
 <div class="text-center m-4">
-  {% include figure.html path="assets/img//project/dec-22-competition.png" title="kojo creations" class="img-fluid rounded z-depth-1" %}
+  {% include figure.html path="assets/img//project/goa-amol-naik1.png" title="kojo creations" class="img-fluid rounded z-depth-1" caption="Kojo design made by Amol Naik (posted on the code exchange)" %}
 </div>

@@ -8,7 +8,7 @@ category: kojo
 ---
 
 <div class="float-right ml-3 mb-1">
-  {% include figure.html path="assets/img/project/chinar12.png" title="chinar12.png" class="img-fluid rounded z-depth-1" width="240" zoomable="true" caption="A stall at Chinar with printed gen-art merchandise" %}
+  {% include figure.html path="assets/img/project/chinar12.png" title="chinar12.png" class="img-fluid rounded z-depth-1" width="240" zoomable="true" caption="A stall with kojo-made merchandise" %}
 </div>
 
 This project is being run by [REACHA](www.reacha.org) in partnership with the Indian Army, with the support of ONGC.
