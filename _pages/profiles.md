@@ -71,7 +71,7 @@ Nikhil has been working with school children and college youth for over 20 years
     </div>
     <div class="col text-center">
       <a href="">
-        {% include figure.html path="assets/img/people/lalit-130.png" class="img-fluid rounded z-depth-1" width="150" %}
+        {% include figure.html path="assets/img/people/aditya.jpg" class="img-fluid rounded z-depth-1" width="183" %}
       </a>
       <div class="caption">
         Aditya Pant
