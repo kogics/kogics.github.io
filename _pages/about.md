@@ -39,7 +39,6 @@ At this point in time, Kojo is a family of products:
 
 With the Kojo product as a foundation, we are doing many projects in collaboration with close partners like [REACHA](https://www.reacha.org) -- with schools around the country. You can read more about these on the [Projects](/projects) page.
 
-In addition to our Kojo projects, we are also doing a project called *Partners in Education (PiE)*. This project aims to... 
-You can read more about the project on the [Projects](/projects) page.
+In addition to our Kojo projects, we are also doing a foundational education project called [Partners in Education (PiE)](/projects/51_pie/).
 
 ---
