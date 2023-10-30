@@ -2,7 +2,7 @@
 layout: post
 title: Blog migration
 date: 2022-08-15 15:09:00
-description: The Kojo blog has moved!
+description: The Kojo blog has moved here
 tags: kojo
 categories:
 featured: true

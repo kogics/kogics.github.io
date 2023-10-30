@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Partners in Education
+title: PiE
 description: Facilitation of partnerships for under-priviledged schools
 img: assets/img/project/pie.png
 importance:
