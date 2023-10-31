@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Kojo
-permalink: /kojo/
+permalink: /kojo
 ---
 
 <div class="row ml-1 mb-4">
@@ -89,5 +89,5 @@ To get going with Kojo:
 * Or explore the [Kojo Docs](http://docs.kogics.net/) website.
 
 <div class="text-center m-4">
-  {% include figure.html path="assets/img/kojo-creations.png" title="kojo creations" class="img-fluid rounded z-depth-1" caption="All designs on this page have been made in Kojo" %}
+  {% include figure.html path="assets/img/kojo-creations.png" title="kojo creations" class="img-fluid rounded z-depth-1" caption="All the designs on this page have been made in Kojo" %}
 </div>
