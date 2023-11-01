@@ -27,7 +27,7 @@ Kojo is an [open source](https://github.com/litan/kojo) learning environment tha
 Inside Kojo, youngsters (from ages 8 to 80!) – *play*, *create*, and *learn*:
 
 <div class="float-right ml-3 mb-1">
-  {% include figure.html path="assets/img/kojo-env.png" title="kojo environment" class="img-fluid rounded z-depth-1" width="400" zoomable="true" %}
+  {% include figure.html path="assets/img/kojo-env.png" class="img-fluid rounded z-depth-1" width="400" zoomable="true" %}
 </div>
 
 * They **play** with Scala programs
@@ -47,7 +47,7 @@ Inside Kojo, youngsters (from ages 8 to 80!) – *play*, *create*, and *learn*:
   * And a lot more...
 
 <div class="float-right ml-3 mb-1">
-  {% include figure.html path="assets/img/kojo-drawings.png" title="kojo drawings" class="img-fluid rounded z-depth-1" width="350" zoomable="true" %}
+  {% include figure.html path="assets/img/kojo-drawings.png" class="img-fluid rounded z-depth-1" width="350" zoomable="true" %}
 </div>
 
 * Very importantly, in addition to essential skills, they also learn how to learn with understanding – given the opportunity to apply learned ideas to many different situations, and the exploration, discovery, and creation involved in this process.
@@ -67,7 +67,7 @@ To enable all of the above, Kojo provides a combination of three compelling feat
 Kojo has been around since late 2009. From the time of its launch, it has been downloaded and used joyfully by people from all over the world. To find out more about this journey, you can go to the [Kojo case studies page](https://docs.kogics.net/reference/kojo-case-studies.html), where you will find interviews, articles, and papers based on the use of Kojo by different people, in different settings, over this period of time. These references provide details on the origin and history of Kojo, the pedagogical ideas behind, its features, and its beneficiaries. They also highlight some of the human interest stories of this journey.
 
 <div class="float-right ml-3 mb-1">
-  {% include figure.html path="assets/img/kojo-screenshot.png" title="kojo screenshot" class="img-fluid rounded z-depth-1" width="450" zoomable="true" %}
+  {% include figure.html path="assets/img/kojo-screenshot.png" class="img-fluid rounded z-depth-1" width="450" zoomable="true" %}
 </div>
 
 At this point in time, Kojo is a family of products:
@@ -89,5 +89,5 @@ To get going with Kojo:
 * Or explore the [Kojo Docs](http://docs.kogics.net/) website.
 
 <div class="text-center m-4">
-  {% include figure.html path="assets/img/kojo-creations.png" title="kojo creations" class="img-fluid rounded z-depth-1" caption="All the designs on this page have been made in Kojo" %}
+  {% include figure.html path="assets/img/kojo-creations.png" class="img-fluid rounded z-depth-1" caption="All the designs on this page have been made in Kojo" %}
 </div>

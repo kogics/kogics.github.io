@@ -8,7 +8,7 @@ category: kojo
 ---
 
 <div class="float-right ml-3 mb-1">
-  {% include figure.html path="assets/img/project/goa-manjusha1.png" title="aug-22-competition.png" class="img-fluid rounded z-depth-1" width="240" zoomable="true" caption="a tangram boat by Manjusha Govekar" %}
+  {% include figure.html path="assets/img/project/goa-manjusha1.png" class="img-fluid rounded z-depth-1" width="240" zoomable="true" caption="a tangram boat by Manjusha Govekar" %}
 </div>
 
 Kojo is part of the coding curriculum in the state of Goa – for grade 7 (standard and elective curriculum) and grade 8 (elective curriculum).
@@ -24,5 +24,5 @@ Children and teachers in Goa have been making wonderful creations with Kojo. Her
 ---
 
 <div class="text-center m-4">
-  {% include figure.html path="assets/img//project/goa-amol-naik1.png" title="kojo creations" class="img-fluid rounded z-depth-1" caption="Kojo design made by Amol Naik (posted on the code exchange)" %}
+  {% include figure.html path="assets/img//project/goa-amol-naik1.png" class="img-fluid rounded z-depth-1" width="600" zoomable="true" caption="A Kojo design made by Amol Naik (posted on the code exchange)" %}
 </div>

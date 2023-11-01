@@ -8,7 +8,7 @@ category: pie
 ---
 
 <div class="float-right ml-3 mb-1">
-  {% include figure.html path="assets/img/project/pie-mondrian-md.jpg" title="pie mondrian trip" class="img-fluid rounded z-depth-1" width="300" zoomable="false"  %}
+  {% include figure.html path="assets/img/project/pie-mondrian-md.jpg" class="img-fluid rounded z-depth-1" width="300" zoomable="true"  %}
 </div>
 
 [Project Vision (PDF)](/assets/pdf/PiE.pdf)
@@ -17,5 +17,5 @@ Partners-in-Education (PiE) is a program started by the Kogics Foundation with t
 and to provide good exposure to the rural kids -- so that they become better equipped to progress in today’s world.
 
 <div class="mt-3">
-  {% include figure.html path="assets/img/project/pie-collage.png" title="pie collage" class="img-fluid rounded z-depth-1"  width="540" %}
+  {% include figure.html path="assets/img/project/pie-collage.png" class="img-fluid rounded z-depth-1" width="540" zoomable="true" %}
 </div>

@@ -8,7 +8,7 @@ category: kojo
 ---
 
 <div class="float-right ml-3 mb-1">
-  {% include figure.html path="assets/img/project/lund1.png" title="aug-22-competition.png" class="img-fluid rounded z-depth-1" width="240" zoomable="true" caption="children having fun with Kojo coding" %}
+  {% include figure.html path="assets/img/project/lund1.png" class="img-fluid rounded z-depth-1" width="240" caption="children having fun with Kojo at Lund-Univ" %}
 </div>
 
 The effort here is led by Bjorn Regnell, a professor in Software Engineering. Bjorn is a big fan of Scala, and has been a key contributor to the Kojo effort over the past many years. He is currently engaged in introducing Scala as a first programming language for computer science students at the faculty of engineering LTH (and they use Kojo in the first few sessions to get going). He also works at LTH's Science Center where school teachers and kids learn about programming using Kojo and Scala. The following are some numbers from the Science Center:
