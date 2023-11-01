@@ -25,6 +25,6 @@ Some of the participating schools have been:
 * Mondrian House
 
 <div class="text-center m-4">
-  {% include figure.html path="assets/img//project/kojo-roots-collage.png" class="img-fluid rounded z-depth-1" %}
+  {% include figure.html path="assets/img/project/kojo-roots-collage.png" class="img-fluid rounded z-depth-1" %}
 </div>
 
