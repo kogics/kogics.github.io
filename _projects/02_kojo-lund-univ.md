@@ -1,6 +1,6 @@
 ---
 layout: page
-title: kojo @ Lund-Univ
+title: Kojo @ Lund University
 description: Kojo activities at Lund University, Sweden
 img: assets/img/project/kojo-lund.png
 importance:

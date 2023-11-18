@@ -1,6 +1,6 @@
 ---
 layout: page
-title: kojo @ chinar
+title: Kojo @ Chinar
 description: The Kojo Project at Chinar 9 Jawan Club, Baramulla
 img: assets/img/project/kojo-chinar.png
 importance:

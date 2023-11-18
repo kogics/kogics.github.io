@@ -1,6 +1,6 @@
 ---
 layout: page
-title: kojo @ goa
+title: Kojo @ Goa
 description: Kojo in the Goa coding curriculum
 img: assets/img/project/kojo-goa.png
 importance:

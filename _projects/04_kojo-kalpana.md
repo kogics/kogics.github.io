@@ -1,6 +1,6 @@
 ---
 layout: page
-title: kojo-kalpana
+title: Kojo Kalpana
 description: Multi-state project for coding in schools
 img: assets/img/project/kojo-kalpana.png
 importance:
