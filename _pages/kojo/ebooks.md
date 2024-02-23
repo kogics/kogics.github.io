@@ -14,6 +14,7 @@ The following is a series of books about using [Kojo](/kojo) to play with Comput
 
 * [Kojo - An Introduction](#intro)
 * [Explorations with Kojo - Level 1](#explorations1)
+* [Explorations with Kojo - Level 2](#explorations2)
 * [Adventures with Kojo](#adventures)
 * [Kojo Programming Quick-Ref](#quickref)
 
@@ -53,13 +54,34 @@ For a really quick introduction to Kojo, there is also the [Kojo Intro Video](ht
 
 <h3 id="explorations1">Explorations with Kojo - Level 1</h3>
 
-[Buy the Ebook](https://pantlalit.gumroad.com/l/kojo-lessons-level1) -- and support the Kojo project.
+[Buy the Ebook](https://pantlalit.gumroad.com/l/kojo-lessons-level1) -- and support the Kojo project. Or [request a copy](https://docs.kogics.net/tutorials-index.html#exploration-books) via email.
 
 This book is meant to get children going on their journey of coding, and the learning of essential skills via coding. It helps them learn the essentials of coding, even as they interactively explore different topics in Math and Art (via coding). Topics covered include:
 
 * Math - distances, numbers, ratio and proportion, percentages, estimation, angles, arcs, polygons, coordinate geometry, equations, random numbers, visual and numeric patterns, and more.
 * Art - all kinds of shapes and colors, brought together creatively.
 * Coding -- turtle graphics, values and variables, commands and functions, algorithms, primitives, composition, and abstraction.
+
+The book also gives children practice with learning how to learn new things -- using exploration, discovery, and feedback.
+
+---
+
+<div class="float-right ml-5 mb-1 text-center">
+  <a href="https://pantlalit.gumroad.com/l/kojo-lessons-level2">
+    {% include figure.html path="assets/img/ebook/explorations2.png" class="img-fluid rounded z-depth-1" width="200" %}
+  </a>
+</div>
+
+<h3 id="explorations2">Explorations with Kojo - Level 2</h3>
+
+[Buy the Ebook](https://pantlalit.gumroad.com/l/kojo-lessons-level2) -- and support the Kojo project. Or [request a copy](https://docs.kogics.net/tutorials-index.html#exploration-books) via email.
+
+This book is meant to help children move to the next level of coding, and the learning of essential skills via coding. It helps them learn the essential ideas of functional programming, even as they go about making rich and interesting generative art. Topics covered include:
+
+* Functions.
+* Data and values.
+* Picture graphics fundamentals.
+* Picture graphics composition, transformations, and effects.
 
 The book also gives children practice with learning how to learn new things -- using exploration, discovery, and feedback.
 
