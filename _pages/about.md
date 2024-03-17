@@ -21,7 +21,7 @@ At the Kogics Foundation, we work with young minds and aim to:
 * Give them tools that make learning fun and effective.
 * Ignite them with the fire of curiosity.
 * Encourage them to dream, and help them to pursue their dreams.
-* Guide them to an awareness of joy in life.
+* Guide them to an awareness of joy.
 
 Our core product is [Kojo](/kojo), an app where children **Play** (with code), **Create** (drawings, generative-art, games, simulations, ai-apps, circuits, robots, and more), and **Learn** (essential 21st century skills).
 
