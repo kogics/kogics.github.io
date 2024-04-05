@@ -47,14 +47,14 @@ For a really quick introduction to Kojo, there is also the [Kojo Intro Video](ht
 ---
 
 <div class="float-right ml-5 mb-1 text-center">
-  <a href="https://pantlalit.gumroad.com/l/kojo-lessons-level1">
+  <a href="https://docs.kogics.net/tutorials-index.html#exploration-books">
     {% include figure.html path="assets/img/ebook/explorations1.png" class="img-fluid rounded z-depth-1" width="200" %}
   </a>
 </div>
 
 <h3 id="explorations1">Explorations with Kojo - Level 1</h3>
 
-[Buy the Ebook](https://pantlalit.gumroad.com/l/kojo-lessons-level1) -- and support the Kojo project. Or [request a copy](https://docs.kogics.net/tutorials-index.html#exploration-books) via email.
+[Request a copy](https://docs.kogics.net/tutorials-index.html#exploration-books) via email.
 
 This book is meant to get children going on their journey of coding, and the learning of essential skills via coding. It helps them learn the essentials of coding, even as they interactively explore different topics in Math and Art (via coding). Topics covered include:
 
@@ -67,14 +67,14 @@ The book also gives children practice with learning how to learn new things -- u
 ---
 
 <div class="float-right ml-5 mb-1 text-center">
-  <a href="https://pantlalit.gumroad.com/l/kojo-lessons-level2">
+  <a href="https://docs.kogics.net/tutorials-index.html#exploration-books">
     {% include figure.html path="assets/img/ebook/explorations2.png" class="img-fluid rounded z-depth-1" width="200" %}
   </a>
 </div>
 
 <h3 id="explorations2">Explorations with Kojo - Level 2</h3>
 
-[Buy the Ebook](https://pantlalit.gumroad.com/l/kojo-lessons-level2) -- and support the Kojo project. Or [request a copy](https://docs.kogics.net/tutorials-index.html#exploration-books) via email.
+[Request a copy](https://docs.kogics.net/tutorials-index.html#exploration-books) via email.
 
 This book is meant to help children move to the next level of coding, and the learning of essential skills via coding. It helps them learn the essential ideas of functional programming, even as they go about making rich and interesting generative art. Topics covered include:
 
