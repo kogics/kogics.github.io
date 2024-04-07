@@ -9,7 +9,7 @@ permalink: /kojo
     <button type="button" class="btn btn-primary btn-theme-bg">Watch Intro</button>
   </a>
 
-  <a href="https://docs.kogics.net/modules/modules-index.html">
+  <a href="/kojo-ebooks">
     <button type="button" class="btn btn-primary btn-theme-bg">Learn</button>
   </a>
 
