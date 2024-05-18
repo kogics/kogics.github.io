@@ -15,4 +15,4 @@ For Kojo, [REACHA](https://www.reacha.org) is Kogics Foundation's exclusive Impl
 
 (*) Excluding the "Kojo Roots" project that the Trustees run through self-donations, and support from family & friends.
 
-Nothing on this page is meant to prevent any individual or organization to freely use Kojo as per the terms of its open source license.
+Nothing on this page is meant to prevent any individual or organization from freely using Kojo as per the terms of its open source license.
