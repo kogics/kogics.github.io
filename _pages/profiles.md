@@ -36,8 +36,6 @@ Vibha is an artist, teacher, and freelance market researcher based out of Dehrad
   {% include figure.html path="assets/img/people/nikhil.jpg" class="img-fluid rounded z-depth-1" width="120" %}
 </div>
 
-Focus Area: Outreach and CSR Projects
-
 Nikhil has been working with school children and college youth for over 20 years. He left his civil engineering job to teach at Manava Bharati School, New Delhi, in 1996. He has developed Child Centric Learning By Doing (CCLBD) modules - SAMEER & MAITREYA - that focus on enabling & empowering children to discover their true calling in life. Parents, college youth and corporate executives (as part of CSR) volunteer in implementing these modules - both in schools as well as in neighbourhoods. Nikhil has served as the *Chief Programme Officer* at the *National Foundation for CSR*, New Delhi. He is currently involved in *Compliance to Impact with Sustainability* advising to governments, corporates, NGOs, and Academia on CSR and Sustainable Development.
 
 ---
