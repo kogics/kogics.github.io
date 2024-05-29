@@ -64,6 +64,10 @@ To enable all of the above, Kojo provides a combination of three compelling feat
 
 ---
 
+<div class="float-right ml-3 mb-1">
+  {% include figure.html path="assets/img/kojo-pcl.png" class="img-fluid rounded z-depth-1" width="200" %}
+</div>
+
 Kojo has been around since late 2009. From the time of its launch, it has been downloaded and used joyfully by people from all over the world. To find out more about this journey, you can go to the [Kojo case studies page](https://docs.kogics.net/reference/kojo-case-studies.html), where you will find interviews, articles, and papers based on the use of Kojo by different people, in different settings, over this period of time. These references provide details on the origin and history of Kojo, the pedagogical ideas behind, its features, and its beneficiaries. They also highlight some of the human interest stories of this journey.
 
 <div class="float-right ml-3 mb-1">
