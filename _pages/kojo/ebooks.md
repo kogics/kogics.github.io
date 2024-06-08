@@ -18,8 +18,17 @@ The following is a series of books about using [Kojo](/kojo) to play with Comput
 * [Adventures with Kojo](#adventures)
 * [Kojo Programming Quick-Ref](#quickref)
 
-There's also a code-only (almost-no-prose) activity book to very quickly get going with Kojo:
-* [Getting started with Kojo](https://docs.kogics.net/tutorials-index.html#books)
+
+There are also a couple of code-only (almost-no-prose) activity book to very quickly get going with Kojo:
+* [Getting started with Kojo](https://docs.kogics.net/tutorials-index.html#books) -- this book is suitable for children in grades 3-5
+
+<div class="float-right ml-5 mb-1 text-center">
+  <a href="https://docs.kogics.net/tutorials-index.html#books">
+    {% include figure.html path="assets/img/ebook/challenges1.png" class="img-fluid rounded z-depth-1" width="200" %}
+  </a>
+</div>
+
+* [Coding Challenges with Kojo, Level 1](https://docs.kogics.net/tutorials-index.html#books) -- different editions of this book have been used at the Vattenhalen Science Center at Lund University, Sweden, since 2011 -- to introduce visiting students and steachers to the world of coding.
 
 Additional Kojo learning material is available on the [Kojo Docs](http://docs.kogics.net/) website. Here are some useful links from that site:
 * [Tutorials](https://docs.kogics.net/tutorials-index.html)
