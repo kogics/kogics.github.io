@@ -37,7 +37,7 @@ At this point in time, Kojo is a family of products:
   * [kojo-music](https://github.com/litan/kojo-music)
 
 
-With the Kojo product as a foundation, we are doing many projects in collaboration with close partners like [REACHA](https://www.reacha.org) -- with schools around the country. You can read more about these on the [Projects](/projects) page.
+With the Kojo product as a foundation, we enable many projects in collaboration with partners -- with schools and institutions around India and the rest of the world. You can read more about these on the [Projects](/projects) page.
 
 In addition to our Kojo projects, we are also doing a foundational education project called [Partners in Education (PiE)](/projects/51_pie/).
 
