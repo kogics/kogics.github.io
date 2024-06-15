@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Kojo
+title: Kojo
 permalink: /kojo
 ---
 
@@ -22,7 +22,7 @@ permalink: /kojo
   </a>
 </div>
 
-Kojo is an [open source](https://github.com/litan/kojo) learning environment that is available as a [desktop-app](/kojo-download) for Linux, Windows, and Mac, and as a [web-app](http://ikojo.in) that runs on any modern internet-browser.
+Kojo is our [open source](https://github.com/litan/kojo) learning environment that is available as a [desktop-app](/kojo-download) for Linux, Windows, and Mac, and as a [web-app](http://ikojo.in) that runs on any modern internet-browser.
 
 Inside Kojo, youngsters (from ages 8 to 80!) – *play*, *create*, and *learn*:
 
@@ -32,7 +32,7 @@ Inside Kojo, youngsters (from ages 8 to 80!) – *play*, *create*, and *learn*:
 
 * They **play** with Scala programs
 * They **create** drawings, generative-art, animations, music, games, simulations, apps, and Arduino based intelligent circuits (with appropriate additional hardware)
-* And they **learn** these essential 21st century skills:
+* And they **learn**, *through the act of creation*, these essential 21st century skills:
   * Logical, Critical, and Creative thinking
   * Fundamental ideas in Computing
   * Problem solving
