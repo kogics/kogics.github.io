@@ -30,7 +30,7 @@ Inside Kojo, youngsters (from ages 8 to 80!) – *play*, *create*, and *learn*:
   {% include figure.html path="assets/img/kojo-env.png" class="img-fluid rounded z-depth-1" width="400" zoomable="true" %}
 </div>
 
-* They **play** with Scala programs
+* They **play** with [Scala](https://scala-lang.org/) programs
 * They **create** drawings, generative-art, animations, music, games, simulations, apps, and Arduino based intelligent circuits (with appropriate additional hardware)
 * And they **learn**, *through the act of creation*, these essential 21st century skills:
   * Logical, Critical, and Creative thinking
@@ -56,9 +56,8 @@ All of this fosters in them a mindset of experimentation, innovation, self-relia
 
 If you are curious to see what you can do with Kojo, check out the [Kojo Code Exchange](https://codex.kogics.net/), where students and teachers from around the world share their Kojo creations.
 
-
 To enable all of the above, Kojo provides a combination of three compelling features that make it a very effective learning environment:
-* A strong yet beginner-friendly programming language named Scala (which has great support for all the essential ideas in computing and coding – via structured, functional, object-oriented, and concurrent programming).
+* An academically (and industrially) strong yet beginner-friendly programming language named [Scala](https://scala-lang.org/) (which has great support for all the essential ideas in computing and coding – via structured, functional, object-oriented, and concurrent programming).
 * A powerful and easy-to-use App (with modern features like syntax-highlighting, code-completion, interactive-program-manipulation, breakpoints, data inspection, tracing, history, etc.)
 * Rich areas for programming and creation (with real-world connects) – Turtle Graphics, Picture Graphics, Animations, [Gaming](https://github.com/litan/kojo-gaming), [Music](https://github.com/litan/kojo-music), [AI](https://github.com/litan/kojo-ai-3), and [Robotics](https://github.com/litan/kojo-arduino), with good starter learning material.
 
