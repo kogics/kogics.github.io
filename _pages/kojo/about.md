@@ -22,7 +22,9 @@ permalink: /kojo
   </a>
 </div>
 
-Kojo is our [open source](https://github.com/litan/kojo) learning environment that is available as a [desktop-app](/kojo-download) for Linux, Windows, and Mac, and as a [web-app](http://ikojo.in) that runs on any modern internet-browser.
+Kojo is our [open source](https://github.com/litan/kojo) learning environment that is available as a [desktop-app](/kojo-download) for Linux, Windows, and Mac, and as a [web-app](http://ikojo.in) that runs on any modern internet-browser. 
+
+Kojo is used world-wide -- in homes, schools, universities, and social-sector projects. It is also a part of government curriculums -- for various coding-aligned subjects in grades 6 to 10. You can learn more about some of these usages on our [projects](/projects) page.
 
 Inside Kojo, youngsters (from ages 8 to 80!) – *play*, *create*, and *learn*:
 
