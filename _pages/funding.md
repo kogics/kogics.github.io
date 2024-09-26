@@ -7,4 +7,4 @@ nav: true
 nav_order: 3
 ---
 
-If you want to explore how you can support the Kojo ecosystem by providing funding, please send an email to funding@kogics.net.
+If you want to explore how you can support the Kojo ecosystem by providing funding, please send an email to funding@kogics.net
