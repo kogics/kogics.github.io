@@ -110,12 +110,12 @@ The book also gives children practice with learning how to learn new things -- u
 This book is meant to help children progress even further on their journey of creation via coding, and the learning of essential skills during this journey. It helps them get better with the essential ideas of functional programming, even as they go about making rich and interesting animations and music. Topics covered include:
 
 * Animations.
-  * Transitions, Easing Functions, Timelines and KeyFrames.
+  * Transitions, State, Easing Functions, Timelines and KeyFrames.
   * Animation combinators.
 * Music
-  * Melody, Rythm, Harmony
-  * Scores (with tempo, parts, instruments, phrases, notes, beats, rests, durations)
-  * Drawing out scores in a visual workbench
+  * Melody, Rythm, Harmony.
+  * Scores (with tempo, parts, instruments, phrases, notes, beats, rests, durations).
+  * Drawing out scores in a visual workbench.
   * Live loops, game music, and generative music.
 
 The book also gives children practice with learning how to learn new things -- using exploration, discovery, and feedback.
