@@ -15,6 +15,7 @@ The following is a series of books about using [Kojo](/kojo) to play with Comput
 * [Kojo - An Introduction](#intro)
 * [Explorations with Kojo - Level 1](#explorations1)
 * [Explorations with Kojo - Level 2](#explorations2)
+* [Explorations with Kojo - Level 3](#explorations3)
 * [Adventures with Kojo](#adventures)
 * [Kojo Programming Quick-Ref](#quickref)
 
@@ -91,6 +92,31 @@ This book is meant to help children move to the next level of coding, and the le
 * Data and values.
 * Picture graphics fundamentals.
 * Picture graphics composition, transformations, and effects.
+
+The book also gives children practice with learning how to learn new things -- using exploration, discovery, and feedback.
+
+---
+
+<div class="float-right ml-5 mb-1 text-center">
+  <a href="/kojo-level-3-ebook">
+    {% include figure.html path="assets/img/ebook/explorations3.png" class="img-fluid rounded z-depth-1" width="200" %}
+  </a>
+</div>
+
+<h3 id="explorations3">Explorations with Kojo - Level 3</h3>
+
+[Request a PDF copy](https://docs.kogics.net/tutorials-index.html#exploration-books) via email. Or [read online](/kojo-level-3-ebook).
+
+This book is meant to help children progress even further on their journey of creation via coding, and the learning of essential skills during this journey. It helps them get better with the essential ideas of functional programming, even as they go about making rich and interesting animations and music. Topics covered include:
+
+* Animations.
+  * Transitions, Easing Functions, Timelines and KeyFrames.
+  * Animation combinators.
+* Music
+  * Melody, Rythm, Harmony
+  * Scores (with tempo, parts, instruments, phrases, notes, beats, rests, durations)
+  * Drawing out scores in a visual workbench
+  * Live loops, game music, and generative music.
 
 The book also gives children practice with learning how to learn new things -- using exploration, discovery, and feedback.
 
