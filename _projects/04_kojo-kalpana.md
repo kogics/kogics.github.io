@@ -21,6 +21,7 @@ To get a flavor of the project, check out the *award ceremony* presentations for
 * [December 2022 coding competition](/assets/pdf/Dec-2022-competition.pdf)
 * [November 2023 coding competition](/assets/pdf/Nov-2023-competition.pdf)
 * [January 2024 coding competition](/assets/pdf/Jan-2024-competition.pdf)
+* [October 2024 coding competition](/assets/pdf/Oct-2024-competition.pdf)
 
 <div class="text-center m-4">
   {% include figure.html path="assets/img//project/dec-22-competition.png" class="img-fluid rounded z-depth-1" zoomable="true" %}
