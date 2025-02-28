@@ -36,11 +36,11 @@ Inside Kojo, youngsters (from ages 8 to 80!) – *play*, *create*, and *learn*:
 * They **create** drawings, generative-art, animations, music, games, simulations, apps, and Arduino based intelligent circuits (with appropriate additional hardware)
 * And they **learn**, *through the act of creation*, these essential 21st century skills:
   * Logical, Critical, and Creative thinking
-  * Fundamental ideas in Computing
+  * Computational thinking
+  * Design thinking
   * Problem solving
   * Self assessment
   * Attention-fullness, focus, and concentration
-  * Design thinking
   * Communication and Collaboration
   * Emotional grit
   * Proficiency with core subject areas:
