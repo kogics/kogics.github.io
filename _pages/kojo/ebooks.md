@@ -16,6 +16,7 @@ The following is a series of books about using [Kojo](/kojo) to play with Comput
 * [Explorations with Kojo - Level 1](#explorations1)
 * [Explorations with Kojo - Level 2](#explorations2)
 * [Explorations with Kojo - Level 3](#explorations3)
+* [Gaming - Level 1](https://docs.kogics.net/tutorials/gaming-1/index.html)
 * [Adventures with Kojo](#adventures)
 * [Kojo Programming Quick-Ref](#quickref)
 
