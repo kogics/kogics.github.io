@@ -14,7 +14,13 @@ nav_order: 6
   {% include figure.html path="assets/img/people/lalit-130.png" class="img-fluid rounded z-depth-1" width="120" %}
 </div>
 
-Lalit is a codecrafter, software architect, and teacher based out of Dehradun, India. He spends his work/hobby time enjoying teaching computer programming and math to school-children, writing ebooks, and developing educational software. Lalit has worked as a professional programmer for many many years - in roles all the way from junior programmer to CTO - designing and developing software for companies in the United States, Europe, and India. He has also written articles for popular (in the late 1990s) programming magazines like Dr. Dobbs Journal and Java Report. He holds multiple patents, but is not too proud of that fact given his [open source](http://www.opensource.org/docs/osd) leanings. His open source projects include [Kojo](https://www.kogics.net/kojo) (a programming based learning environment), [Tefla](https://github.com/litan/tefla) (a deep learning AI toolkit), [Jiva](https://github.com/litan/jiva-ng) (a genetic algorithms library), [kojo-ai](https://github.com/litan/kojo-ai-3), [kojo-gaming](https://github.com/litan/kojo-gaming), and [kojo-music](https://github.com/litan/kojo-music).
+Lalit is a learner, teacher, and code-crafter based out of Dehradun, India. For the past many years, he has been working on Kojo (www.kojo.in), an open-source app that helps children learn computational thinking, design thinking, and essential core skills that provide the foundation for these other skills. Kojo is used worldwide, and is also a part of the govt. curriculum in India.
+
+He spends his work/hobby time enjoying teaching computer programming, AI, and meditation to youngsters, and having fun writing software and books. 
+Lalit has worked as a professional programmer for many many years - in roles all the way from junior programmer to CTO - designing and developing software for companies in the United States, Europe, and India. 
+
+He has also written articles for popular (in the late 1990s) programming magazines like Dr. Dobbs Journal and Java Report. He holds multiple patents, but is not too proud of that fact given his [open source](http://www.opensource.org/docs/osd) leanings. His open source projects include [Kojo](https://www.kogics.net/kojo) (a programming based learning environment), [Tefla](https://github.com/litan/tefla) (a deep learning AI toolkit), [Jiva](https://github.com/litan/jiva-ng) (a genetic algorithms library), [kojo-ai](https://github.com/litan/kojo-ai-3), [kojo-gaming](https://github.com/litan/kojo-gaming), and [kojo-music](https://github.com/litan/kojo-music).
+Back in the day, he also wrote an OS for Agents, and a Prolog interpreter as the brain of an Agent (for an Agent platform being built at a startup).
 
 Lalit is a graduate of IIT Kanpur. He has a postgraduate degree from IIT Delhi. He did his schooling at La-Martiniere, Lucknow.
 
