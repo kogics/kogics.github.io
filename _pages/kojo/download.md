@@ -2,7 +2,7 @@
 layout: page
 title: Kojo Download
 permalink: /kojo-download
-kojo_version: 2.9.30
+kojo_version: 2.9.31
 ---
 
 [Kojo](/kojo) is [open source software](https://github.com/litan/kojo), and is freely available. You can download and install Kojo based on the instructions and installers provided on this page.
@@ -148,7 +148,7 @@ To install Kojo on Chromebooks, you need to:
 
 *Instructions:*
 This is a fallback distribution, to be used if you run into problems with an installer that is specific to your platform. This distribution can be used on any platform where Java 8 (or higher) is supported. To install Kojo via this distribution:
-* Make sure that Java 8 (or higher) is installed on your computer. If in doubt, get Java 8 from the [Java download site](https://www.java.com/download/).
+* Make sure that Java 8, 11, or 17 is installed on your computer. If in doubt, get Java (version 8, 11, or 17) from a [Java download site](https://bell-sw.com/pages/downloads/?version=java).
 * Download the Kojo Distribution (zip file) and extract it to a directory of your choice.
 * To run Kojo:
   * On Windows - go into the bin directory under the Kojo directory and run the kojo.exe program (or kojo.cmd script) there to launch Kojo. For easier launching in the future, right click on kojo.exe and 'Send' it to the Desktop as a shortcut. You can then launch Kojo via the Desktop shortcut.
