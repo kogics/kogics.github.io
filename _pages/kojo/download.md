@@ -84,7 +84,7 @@ Based on the above output, choose the appropriate installer:
 
 **32-bit Linux/Unix**
 
-[Kojo Installer (shell script)]({{ unixInstallerWithoutJre }}) (Version: {{page.kojo_version}}, needs Java 8 or higher)
+[Kojo Installer (shell script)]({{ unixInstallerWithoutJre }}) (Version: {{page.kojo_version}}, needs Java 8, 11, or 17)
 
 *Instructions:*
 * Download the Kojo installer (shell script). Then run it by opening up a Terminal Window, going to the directory where the installer is located, and running: `sh {{unixFileWithoutJre}}`.
@@ -123,7 +123,7 @@ Based on the above output, choose the appropriate installer:
 
 <h5 id="rpi">Raspberry Pi</h5>
 
-[Kojo Installer (shell script)]({{ unixInstallerWithoutJre }}) (Version: {{page.kojo_version}}, needs Java 8 or higher)
+[Kojo Installer (shell script)]({{ unixInstallerWithoutJre }}) (Version: {{page.kojo_version}}, needs Java 8, 11, or 17)
 
 *Instructions:*
 * Download the Kojo installer (shell script). Then run it by opening up a Terminal Window, going to the directory where the installer is located, and running:  sh Kojo_unix_2_9_26.sh
@@ -144,16 +144,16 @@ To install Kojo on Chromebooks, you need to:
 
 <h5 id="crossplatform">Cross Platform</h5>
 
-[Kojo Distribution (zip file)]({{ zipDistribution }}) (Version: {{page.kojo_version}}, needs Java 8 or higher)
+[Kojo Distribution (zip file)]({{ zipDistribution }}) (Version: {{page.kojo_version}}, needs Java 8, 11, or 17)
 
 *Instructions:*
-This is a fallback distribution, to be used if you run into problems with an installer that is specific to your platform. This distribution can be used on any platform where Java 8 (or higher) is supported. To install Kojo via this distribution:
+This is a fallback distribution, to be used if you run into problems with an installer that is specific to your platform. This distribution can be used on any platform where Java 8, 11, or 17 is supported. To install Kojo via this distribution:
 * Make sure that Java 8, 11, or 17 is installed on your computer. If in doubt, get Java (version 8, 11, or 17) from a [Java download site](https://bell-sw.com/pages/downloads/?version=java).
 * Download the Kojo Distribution (zip file) and extract it to a directory of your choice.
 * To run Kojo:
   * On Windows - go into the bin directory under the Kojo directory and run the kojo.exe program (or kojo.cmd script) there to launch Kojo. For easier launching in the future, right click on kojo.exe and 'Send' it to the Desktop as a shortcut. You can then launch Kojo via the Desktop shortcut.
   * On Unix or Mac - go into the bin directory under the Kojo directory and run the kojo script there to launch Kojo. You can create a launcher for this script as appropriate for your platform and put the launcher on your Desktop.
-* Note for advanced users - you are free to modify the kojo.cmd and kojo scripts to make them use a particular version of Java 8 (or higher); by default they use the Java that is available on the path, and will fail if this is not Java 8 (or higher).
+* Note for advanced users - you are free to modify the kojo.cmd and kojo scripts to make them use a particular version of Java 8, 11, or 17; by default they use the Java that is available on the path, and will fail if this is not Java 8, 11, or 17.
 
 ---
 
