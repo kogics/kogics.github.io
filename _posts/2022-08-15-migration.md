@@ -5,7 +5,7 @@ date: 2022-08-15 15:09:00
 description: The Kojo blog has moved here
 tags: kojo
 categories:
-featured: true
+featured: false
 ---
 
 The Kojo blog has moved from [it's Wordpress location](https://kojoenv.wordpress.com/) to [this website](/blog/).
