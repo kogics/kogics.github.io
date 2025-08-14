@@ -2,7 +2,7 @@
 layout: page
 title: Kojo Download
 permalink: /kojo-download
-kojo_version: 2.9.31
+kojo_version: 2.9.32
 ---
 
 [Kojo](/kojo) is [open source software](https://github.com/litan/kojo), and is freely available. You can download and install Kojo based on the instructions and installers provided on this page.
