@@ -14,7 +14,7 @@ nav_order: 6
   {% include figure.html path="assets/img/people/lalit-130.png" class="img-fluid rounded z-depth-1" width="120" %}
 </div>
 
-Lalit is a learner, teacher, and code-crafter based out of Dehradun, India. For the past many years, he has been working on Kojo (www.kojo.in), an open-source app that helps children learn computational thinking, design thinking, and essential core skills that provide the foundation for these other skills. Kojo is used worldwide, and is also a part of the govt. curriculum in India.
+Lalit is a learner, teacher, and code-crafter based out of Dehradun, India. For the past many years, he has been working on Kojo (www.kojo.in), an open-source app that helps children learn computational thinking, design thinking, and essential core skills that provide the foundation for these higher-level skills. Kojo is used worldwide, and is also a part of the government curriculum in India.
 
 He spends his work/hobby time enjoying teaching computer programming, AI, and meditation to youngsters, and having fun writing software and books. 
 Lalit has worked as a professional programmer for many many years - in roles all the way from junior programmer to CTO - designing and developing software for companies in the United States, Europe, and India. 
