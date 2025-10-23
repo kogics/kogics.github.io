@@ -17,11 +17,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-At the Kogics Foundation, we work with young minds and aim to:
-* Give them tools that make learning fun and effective.
-* Ignite them with the fire of curiosity.
-* Encourage them to dream, and help them to pursue their dreams.
-* Guide them to an awareness of joy.
+Kogics Foundation is a Dehradun based nonprofit organisation (NGO) that has been committed to the field of education and educational technology for more than a decade. At the Kogics Foundation, we strive to:
+* Equip young minds with tools that make learning both enjoyable and effective.
+* Spark curiosity and a lifelong love of discovery in them.
+* Encourage children to dream big and support them in pursuing their dreams.
+* Guide them towards an awareness of joy in learning and life.
 
 Our core product is [Kojo](/kojo), an app where children **Play** (with code), **Create** (drawings, generative-art, games, simulations, ai-apps, circuits, robots, and more), and **Learn** (essential 21st century skills).
 
