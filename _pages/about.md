@@ -23,7 +23,7 @@ Kogics Foundation is a Dehradun based nonprofit organisation (NGO) that has been
 * Encourage children to dream big and support them in pursuing their dreams.
 * Guide them towards an awareness of joy in learning and life.
 
-Our core product is [Kojo](/kojo), an app where children **Play** (with code), **Create** (drawings, generative-art, games, simulations, ai-apps, circuits, robots, and more), and **Learn** (essential 21st century skills, including **computational thinking**, **AI** creation and usage, and design thinking).
+Our core product is [Kojo](/kojo), an app where children **Play** (with code), **Create** (drawings, generative-art, games, simulations, AI apps, circuits, robots, and more), and **Learn** (essential 21st century skills, including **computational thinking**, **AI** creation and usage, and design thinking).
 
 Kojo has been around since late 2009. From the time of its launch, it has been downloaded and used joyfully by people from all over the world. To find out more about this journey, you can go to the [Kojo case studies page](https://docs.kogics.net/reference/kojo-case-studies.html), where you will find interviews, articles, and papers based on the use of Kojo by different people, in different settings, over this period of time. These references provide details on the origin and history of Kojo, the pedagogical ideas behind, its features, and its beneficiaries. They also highlight some of the human interest stories of this journey.
 
