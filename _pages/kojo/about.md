@@ -38,6 +38,7 @@ Inside Kojo, youngsters (from ages 8 to 80!) – *play*, *create*, and *learn*:
   * Logical, Critical, and Creative thinking
   * Computational thinking
   * Design thinking
+  * AI (Artificial Intelligence) creation and usage
   * Problem solving
   * Self assessment
   * Attention-fullness, focus, and concentration
@@ -81,9 +82,9 @@ At this point in time, Kojo is a family of products:
 * A [web app](http://ikojo.in)
 * The [code exchange](https://codex.kogics.net)
 * Many rich and powerful plugins for Kojo:
-  * [kojo-ai](https://github.com/litan/kojo-ai-3)
-  * [kojo-gaming](https://github.com/litan/kojo-gaming)
-  * [kojo-music](https://github.com/litan/kojo-music)
+  * [Kojo AI](https://github.com/litan/kojo-ai-3)
+  * [Kojo Gaming](https://github.com/litan/kojo-gaming)
+  * [Kojo Music](https://github.com/litan/kojo-music)
 
 ---
 
